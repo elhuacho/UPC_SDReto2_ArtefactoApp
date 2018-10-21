@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1169c975-7dfd-4c44-a147-6e2ae07acaab" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1160742317">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2297" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2297" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/app/pruebas/PruebaNegocio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="63" column="47" lean-forward="true" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/app/entidades/Artefacto.java" />
+        <option value="$PROJECT_DIR$/src/com/app/negocio/Negocio.java" />
+        <option value="$PROJECT_DIR$/src/com/app/pruebas/PruebaNegocio.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="847" />
+    <option name="y" value="-9" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UPC_SDReto2_ArtefactoApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UPC_SDReto2_ArtefactoApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540105418905" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PruebaNegocio">
+    <configuration name="PruebaNegocio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UPC_SDReto2_ArtefactoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.pruebas" />
+      <option name="MAIN_CLASS_NAME" value="com.app.pruebas.PruebaNegocio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaNegocio.pruebaCatalogo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UPC_SDReto2_ArtefactoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.pruebas" />
+      <option name="MAIN_CLASS_NAME" value="com.app.pruebas.PruebaNegocio" />
+      <option name="METHOD_NAME" value="pruebaCatalogo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaNegocio.pruebaDescuento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UPC_SDReto2_ArtefactoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.pruebas" />
+      <option name="MAIN_CLASS_NAME" value="com.app.pruebas.PruebaNegocio" />
+      <option name="METHOD_NAME" value="pruebaDescuento" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaNegocio.pruebaMontoNeto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UPC_SDReto2_ArtefactoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.pruebas" />
+      <option name="MAIN_CLASS_NAME" value="com.app.pruebas.PruebaNegocio" />
+      <option name="METHOD_NAME" value="pruebaMontoNeto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaNegocio.pruebaTotalMontosNetos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UPC_SDReto2_ArtefactoApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.pruebas" />
+      <option name="MAIN_CLASS_NAME" value="com.app.pruebas.PruebaNegocio" />
+      <option name="METHOD_NAME" value="pruebaTotalMontosNetos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PruebaNegocio.pruebaMontoNeto" />
+      <item itemvalue="JUnit.PruebaNegocio.pruebaDescuento" />
+      <item itemvalue="JUnit.PruebaNegocio.pruebaCatalogo" />
+      <item itemvalue="JUnit.PruebaNegocio.pruebaTotalMontosNetos" />
+      <item itemvalue="JUnit.PruebaNegocio" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PruebaNegocio" />
+        <item itemvalue="JUnit.PruebaNegocio.pruebaTotalMontosNetos" />
+        <item itemvalue="JUnit.PruebaNegocio.pruebaCatalogo" />
+        <item itemvalue="JUnit.PruebaNegocio.pruebaMontoNeto" />
+        <item itemvalue="JUnit.PruebaNegocio.pruebaDescuento" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1169c975-7dfd-4c44-a147-6e2ae07acaab" name="Default Changelist" comment="" />
+      <created>1540099109638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540099109638</updated>
+      <workItem from="1540099113640" duration="6330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PruebaNegocio - 2018.10.21 at 01h 47m 48s.xml">
+      <configuration name="PruebaNegocio" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio_pruebaIGV - 2018.10.21 at 01h 48m 27s.xml">
+      <configuration name="PruebaNegocio.pruebaIGV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio - 2018.10.21 at 01h 50m 09s.xml">
+      <configuration name="PruebaNegocio" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio_pruebaIGV - 2018.10.21 at 01h 51m 05s.xml">
+      <configuration name="PruebaNegocio.pruebaIGV" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio_pruebaDescuento - 2018.10.21 at 01h 51m 49s.xml">
+      <configuration name="PruebaNegocio.pruebaDescuento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio_pruebaMontoNeto - 2018.10.21 at 01h 52m 53s.xml">
+      <configuration name="PruebaNegocio.pruebaMontoNeto" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio_pruebaCatalogo - 2018.10.21 at 01h 53m 43s.xml">
+      <configuration name="PruebaNegocio.pruebaCatalogo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio_pruebaTotalMontosNetos - 2018.10.21 at 01h 54m 19s.xml">
+      <configuration name="PruebaNegocio.pruebaTotalMontosNetos" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio - 2018.10.21 at 01h 55m 20s.xml">
+      <configuration name="PruebaNegocio" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PruebaNegocio - 2018.10.21 at 01h 57m 31s.xml">
+      <configuration name="PruebaNegocio" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6330000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14630872" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.3319149" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24966443" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/app/entidades/Artefacto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1470#1471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/app/negocio/Negocio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/app/pruebas/PruebaNegocio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="63" column="47" lean-forward="true" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
